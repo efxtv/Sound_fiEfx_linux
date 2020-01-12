@@ -14,5 +14,9 @@ There is a list of commands we have combined in the bash file is listed below.
 These commands removes the default sound PulseAudio and reinstall it to get the audio. Another application Pavucontrol allows you to boost the sound 200%.
 
 How to run this application
+===========================
 git clone https://github.com/efxtv/Sound_fiEfx_linux.git
+
+chmod 777 Sound_fiEfx_linux.sh
+
 ./Sound_fiEfx_linux.sh
