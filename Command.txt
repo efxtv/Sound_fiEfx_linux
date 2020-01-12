@@ -1,0 +1,14 @@
+There is a list of commands we have combined in the bash file is listed below.
+
+click to see more details https://www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew
+our blog https://uk2blogger.blogspot.com
+
+=============================================
+sudo apt-get remove alsa-base pulseaudio
+sudo apt-get install alsa-base pulseaudio
+sudo alsa force-reload 
+alsamixer
+sudo apt install pavucontrol
+pavucontrol
+clean
+exit
