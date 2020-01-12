@@ -1,0 +1,1 @@
+Use left and right arrow key to select Auto-Mut, disable it by pressing up or down arrow key Make sure you press Esc to Exit the Alsamixer.
