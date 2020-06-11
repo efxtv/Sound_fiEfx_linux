@@ -126,5 +126,7 @@ esac
 done
 done
 
-echo "Exiting PLEASE SUBSCRIVE EFX Tv :)"
+echo "Exiting PLEASE SUBSCRIBE EFX Tv :)"
+sleep 2
+echo "Thank you:)"
 sleep 2
