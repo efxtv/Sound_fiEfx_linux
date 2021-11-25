@@ -20,3 +20,8 @@ git clone https://github.com/efxtv/Sound_fiEfx_linux.git
 chmod 777 Sound_fiEfx_linux.sh
 
 ./Sound_fiEfx_linux.sh
+
+---------------------------------------
+India :  7503453371@ybl<br />
+<a href="https://paypal.me/efxtv"><img src="https://raw.githubusercontent.com/efxtv/efxtv/master/assets/donate-efx-tv.png" alt="Paypal" width="125" height="40"></a>
+---------------------------------------
